@@ -4,7 +4,7 @@ Läuft einmal pro Fach, vollständig **vor** dem ersten Lernblock. Jeder Schritt
 
 ## 1. Rahmendaten
 
-Termin, Dauer, erreichbare Punkte, Bestehensgrenze, erlaubte Hilfsmittel, Raum. → in `LERNPLAN.md`.
+Termin, Dauer, erreichbare Punkte, Bestehensgrenze, erlaubte Hilfsmittel, Raum. → vollständig in `<FACH>-LERNSTART.md`. Läuft mehr als ein Fach, kommen die Termine des Fachs in die Terminleiste des übergreifenden `LERNPLAN.md` und eine Zeile in dessen Fächerübersicht — die Übersicht, nicht die Details.
 
 Die Zielpunktzahl ist **nicht** die Bestehensgrenze, sondern deutlich darüber — bei einer 50er-Grenze etwa 65. Der Puffer fängt Tagesform und Fehleinschätzung ab.
 
@@ -51,7 +51,7 @@ Solange noch Zeit ist, nicht am Vorabend:
 
 ## 8. Artefakte anlegen
 
-Aus [`../templates/`](../templates/): `<FACH>-LERNSTART.md`, `<FACH>-LERNSTATUS.md` mit vollständig gefüllter Themenliste, leerer `<FACH>-SPICKZETTEL.md`.
+Aus [`../templates/`](../templates/): `<FACH>-LERNSTART.md`, `<FACH>-LERNSTATUS.md` mit vollständig gefüllter Themenliste, leerer `<FACH>-SPICKZETTEL.md`. Steht mehr als ein Fach an und existiert noch kein `LERNPLAN.md`, kommt er jetzt aus der Vorlage dazu — sonst wird das neue Fach nur in seiner Terminleiste und Fächerübersicht ergänzt.
 
 ## 9. Ersten Lernblock starten
 
