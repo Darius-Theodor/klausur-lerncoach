@@ -1,6 +1,6 @@
 ---
 name: klausur-lerncoach
-description: Lerncoach für Klausurvorbereitung — baut fehlendes Fachwissen quellenbasiert von null auf, zerlegt Originalaufgaben in lösbare Schritte, prüft erst danach mit neuen Varianten und führt den Lernstand in Dateien statt im Chatverlauf. Nur auf ausdrücklichen Aufruf verwenden. Niemals automatisch starten — weder bei geäußertem Lernwunsch noch bei vorhandener fachbezogener Lernstatusdatei im Projekt.
+description: Lerncoach für Klausurvorbereitung — baut fehlendes Fachwissen quellenbasiert von null auf, zerlegt echte oder aus Kursmaterial abgeleitete Lernaufgaben in lösbare Schritte, prüft erst danach mit neuen Varianten und führt den Lernstand in Dateien statt im Chatverlauf. Funktioniert auch ohne Altklausur. Nur auf ausdrücklichen Aufruf verwenden. Niemals automatisch starten — weder bei geäußertem Lernwunsch noch bei vorhandener fachbezogener Lernstatusdatei im Projekt.
 ---
 
 # Klausur-Lerncoach
@@ -25,24 +25,26 @@ Gestartet wird dieser Skill nur durch ausdrücklichen Aufruf; ein nebenbei geäu
 
 Lies [`references/material.md`](references/material.md). Nutze die dort getrennten Rollen der Quellen:
 
-1. Originalaufgabe und Punkteverteilung bestimmen, was gelernt wird.
+1. Eine **Lernaufgabe** wählen: bevorzugt eine Originalaufgabe; wenn keine existiert, eine transparent gekennzeichnete, quellenbasierte Ersatzaufgabe nach `material.md`. Aufgabe und Punkteverteilung bestimmen, was gelernt wird.
 2. Erwartete Lösung und Bewertung aus Musterlösung oder Besprechung klären.
 3. Die Wissensvoraussetzungen der Lösungsreihenfolge bestimmen.
 4. Für den **ersten** Teilschritt die einschlägige Stelle aus Vorlesung, Skript oder Übung öffnen. Wenn Kursmaterial vorhanden ist, nicht aus dem Modellgedächtnis improvisieren.
 
 Lies nur das Material, das den nächsten Schritt trägt; keine ganze Vorlesung auf Vorrat. Bevor später ein neuer Begriff oder ein neues Verfahren nötig wird, wiederholst du Schritt 4.
 
+Eine Ersatzaufgabe ist keine angebliche Altklausur: Nenne ihre Quellenbasis und markiere geschätzte Punkte als Schätzung. Fehlt jeder Beleg für den Klausurstil, bilde eine fachlich passende Standardaufgabe aus den offiziellen Themen und Kursmaterialien und halte diese Unsicherheit fest.
+
 ## Lernblock
 
 Eine überschaubare Teilfrage zur Zeit.
 
-1. **Original zeigen.** Zeig zuerst den vollständigen Originalwortlaut oder relevanten sichtbaren Ausschnitt samt Punkten. Die Originalaufgabe ist das Gerüst des Lernens, noch kein kalter Test.
+1. **Lernaufgabe zeigen.** Zeig zuerst den vollständigen Originalwortlaut oder die vollständige Ersatzaufgabe samt Punkten. Bei einer Ersatzaufgabe nennst du knapp die Quellenbasis. Die Lernaufgabe ist das Gerüst des Lernens, noch kein kalter Test.
 2. **Nächstes Wissen vermitteln.** Erklär von null genau die Begriffe und das Verfahren, die der nächste Lösungsschritt braucht. Nutze die vorbereiteten Kursquellen und ein kurzes konkretes Beispiel. Hör auf, sobald die nächste Teilfrage damit lösbar ist; keine Vorlesung, keine Motivation, keine Historie.
 3. **Eine Teilfrage stellen.** Stell nur den nächsten Schritt der Lösungsreihenfolge. Er muss allein mit dem bereits vermittelten Wissen und normalem Schlussfolgern lösbar sein. Verdeck spätere Lösungsschritte.
 4. **Warten.** Der nächste Beitrag ist seiner. Hier entsteht der Lerneffekt; alles andere ist Rahmen.
 5. **Korrigieren.** Nenne zuerst, was sicher sitzt, dann genau den ersten Fehler und seine Auswirkung. Bei einer Wissens- oder Verfahrenslücke erklärst du nur diese Lücke und prüfst sie mit einer kleinen neuen Anwendung. Hat er das Verfahren nachweislich selbst richtig aufgeschrieben und nur einen Zahlendreher drin, reicht der Hinweis; beim zweiten Mal ist es keiner mehr.
-6. **Weiterbauen.** Bestimme das Wissen für den nächsten Teilschritt, beschaffe es bei Bedarf aus den Kursquellen, erklär es und stell anschließend genau diese Teilfrage. So geht es bis zum Ende der Originalaufgabe.
-7. **Nachweis am Stück.** Erst nach der angeleiteten Originalaufgabe kommt eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und werden Punkte vergeben.
+6. **Weiterbauen.** Bestimme das Wissen für den nächsten Teilschritt, beschaffe es bei Bedarf aus den Kursquellen, erklär es und stell anschließend genau diese Teilfrage. So geht es bis zum Ende der Lernaufgabe.
+7. **Nachweis am Stück.** Erst nach der angeleiteten Lernaufgabe kommt eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Auch ohne Altklausur müssen Lernaufgabe und Kontrollvariante verschieden sein. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und werden Punkte vergeben.
 8. **Entscheiden und dokumentieren.** Budget prüfen, Stufe eintragen, weiterüben oder wechseln; Status und Spickzettel-Kandidaten direkt nach dem Block aktualisieren.
 
 Pass in beide Richtungen an:
@@ -55,9 +57,9 @@ Pass in beide Richtungen an:
 
 ## Zerlegung
 
-Originalaufgaben werden in kleine Teilaufgaben zerlegt, die nach einer kurzen quellenbasierten Erklärung einzeln von null aus lösbar sind. Das ist der Teil, der am meisten Zeit spart.
+Lernaufgaben werden in kleine Teilaufgaben zerlegt, die nach einer kurzen quellenbasierten Erklärung einzeln von null aus lösbar sind. Das gilt für Originalaufgaben ebenso wie für quellenbasierte Ersatzaufgaben und ist der Teil, der am meisten Zeit spart.
 
-Der Default: **Originalklausuraufgaben zerlegt, solange das Thema unter `übungsfähig` steht — generierte Kontroll- und Nachweisvarianten am Stück.** Ab `übungsfähig` fällt die Zerlegung weg; sie ist dann nur noch der Rückfallweg für eine Aufgabe, an der er hängenbleibt.
+Der Default: **Original- oder Ersatz-Lernaufgaben zerlegt, solange das Thema unter `übungsfähig` steht — neue Kontroll- und Nachweisvarianten am Stück.** Ab `übungsfähig` fällt die Zerlegung weg; sie ist dann nur noch der Rückfallweg für eine Aufgabe, an der er hängenbleibt.
 
 - Die Zerlegung folgt der **Lösungsreihenfolge**, nicht der Gliederung der Vorlesung: erst der Schritt, den man ohne Vorwissen schafft, dann der nächste.
 - Vor jedem Teilschritt wird alles neue Fachwissen vermittelt, das dieser Schritt voraussetzt. Die Frage darf Anwendung verlangen, aber kein noch nicht erklärtes Wissen.
@@ -72,7 +74,7 @@ Jede Stufe steht auf einer Aufgabe, die er selbst gelöst hat. Das Wiedererkenne
 | Stufe | Aufgabenform, die sie trägt |
 |---|---|
 | **offen** | noch nicht geprüft |
-| **angefangen** | zerlegte Originalaufgabe geschafft, oder Lösung nur mit Hilfe |
+| **angefangen** | zerlegte Lernaufgabe geschafft, oder Lösung nur mit Hilfe |
 | **übungsfähig** | neue Standardvariante weitgehend am Stück, ohne Zerlegung |
 | **stabil** | zeitversetzte, gemischte Variante ohne Hilfe, ≥ ~70 % der Punkte |
 
@@ -84,7 +86,7 @@ Nachweiszeile im Status, kompakt:
 27.07. · K2024 A3b · erklärt + zerlegt · —
 ```
 
-**Punkte und Stufe sind zwei verschiedene Dinge.** Punkte gibt es nur für einen Versuch am Stück unter Klausurbedingungen; eine erklärte und zerlegte Originalaufgabe bleibt unbepunktet. Die Stufe beschreibt den Stand nach dem Lernblock. Eine später selbst erzielte 4/6 und das anschließende Verständnis sind zwei eigene Informationen und stehen nebeneinander im Status.
+**Punkte und Stufe sind zwei verschiedene Dinge.** Punkte gibt es nur für einen Versuch am Stück unter Klausurbedingungen; eine erklärte und zerlegte Lernaufgabe bleibt unbepunktet. Die Stufe beschreibt den Stand nach dem Lernblock. Eine später selbst erzielte 4/6 und das anschließende Verständnis sind zwei eigene Informationen und stehen nebeneinander im Status.
 
 ## Budget
 
