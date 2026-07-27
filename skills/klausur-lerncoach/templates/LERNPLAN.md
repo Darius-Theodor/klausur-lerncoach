@@ -8,20 +8,20 @@
 | Datum | Fach | Was |
 |---|---|---|
 | <Datum> | <FACH> | Gemischte Wiederholung |
-| <Datum> | <FACH> | **Probeklausur** — fest |
+| <Datum> | <FACH> | **Probeklausur** — fester Anker; bei Kollision oder verpasstem Termin neu einordnen |
 | <Datum> | <FACH> | **Klausur** |
 
 ## Fächer auf einen Blick
 
 | Fach | Klausur | Bestehen / Ziel | Hilfsmittel | Materiallage | Stand |
 |---|---|---|---|---|---|
-| <FACH> | <Datum> | <X> / <X+15> | <Format, Rechner> | <Altklausur vorhanden? Transkripte?> | <Themen ≥ übungsfähig / gesamt> |
+| <FACH> | <Datum> | <Grenze / skalengerechtes Ziel oder unbekannt> | <Format, Rechner> | <Altklausur vorhanden? Transkripte?> | <Kompetenzbausteine ≥ übungsfähig / gesamt> |
 
 ## Zeitkonflikte
 
-> Wo zwei Fächer dieselben Tage brauchen, und wie die Tage aufgeteilt sind. Die Entscheidung gehört hierher, nicht in den Kopf.
+> Wo harte Termine und Abschlussfenster kollidieren. Keine tägliche Zwangsplanung: Bei jedem tatsächlichen Lernstart entscheidet der aktuelle Stand, welche Aufgabe jetzt am meisten bringt.
 
-- <z. B.: 01.–03.08. brauchen RN und WAI beide Vollzeit → RN vormittags, WAI nachmittags; WAI hat mehr Restpunkte, bekommt den Puffertag.>
+- <z. B.: WAI-Probeklausur läge auf dem RN-Klausurtag → WAI-Fenster vorziehen; beim nächsten tatsächlichen Lernstart trotzdem nach aktuellem Prüfungsnutzen priorisieren.>
 
 ## Offene Logistik
 

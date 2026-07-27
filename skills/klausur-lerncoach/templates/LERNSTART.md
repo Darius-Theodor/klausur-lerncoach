@@ -7,7 +7,7 @@
 
 Führe <NAME> mit möglichst wenig Zeitaufwand sicher zum Bestehen der <FACH>-Klausur am <DATUM>. Die Note ist zweitrangig.
 
-Optimiere nicht auf die Bestehensgrenze von <X> Punkten, sondern auf mindestens **<X+15> Punkte in einer Probeklausur**.
+Optimiere nicht auf die nackte Bestehensgrenze, sondern auf **<skalengerechtes Ziel mit Sicherheitsabstand>** in einer Probeklausur. Ist die Grenze unbekannt, kennzeichne den Arbeitswert als vorläufig und erfinde keine offizielle Bestehensregel.
 
 Startsignal: **ausdrücklicher Aufruf des Skills für <FACH>** → Status lesen, Thema wählen, Kursquellen für den ersten Teilschritt prüfen, Original- oder quellenbasierte Ersatzaufgabe zeigen, nötiges Wissen von null erklären und genau eine damit lösbare Teilfrage stellen.
 
@@ -18,9 +18,11 @@ Startsignal: **ausdrücklicher Aufruf des Skills für <FACH>** → Status lesen,
 | Termin | <Datum, Uhrzeit> |
 | Dauer | <Minuten> |
 | Erreichbar / Bestehensgrenze | <Punkte> / <Punkte> |
+| Nachweisschwelle | <skalengerechter Arbeitswert für zeitversetzte Kontrollaufgaben; bei unbekannter Regel ausdrücklich vorläufig> |
+| Klausurformat | <Aufgabentypen oder unbekannt> |
 | Erlaubte Hilfsmittel | <Spickzettel-Format, Taschenrechnertyp> |
 | Raum | <Raum> |
-| Probeklausur | <Datum, Uhrzeit> — fest, nicht verschiebbar |
+| Probeklausur | <Datum, Uhrzeit> — fester Anker; falls verpasst, beim nächsten Aufruf realistisch neu einordnen |
 | Gemischte Wiederholung | <Datum> |
 
 ## Material
@@ -47,7 +49,7 @@ Wenn noch kein Thema bearbeitet wurde, beginne mit <schnellem, motivierendem The
 
 ## Logistik — bis <Datum> geklärt
 
-- [ ] Spickzettel: handschriftlich nötig oder gedruckt erlaubt? <Quelle prüfen>
-- [ ] Falls handschriftlich: Abschreibe-Abend am <Datum>
+- [ ] Hilfsblatt: erlaubt, verboten oder unbekannt? <Quelle prüfen>
+- [ ] Falls erlaubt und handschriftlich: Abschreibe-Abend am <Datum>
 - [ ] Taschenrechner <Typ> vorhanden
 - [ ] Raum <…>, Lichtbild- und Studierendenausweis

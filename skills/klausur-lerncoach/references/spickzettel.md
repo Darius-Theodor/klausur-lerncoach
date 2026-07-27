@@ -1,17 +1,20 @@
 # Spickzettel
 
+Diese Datei gilt nur, wenn ein Hilfsblatt bestätigt erlaubt ist. Ist die Zulassung unbekannt, bleiben Kandidaten im Lernstatus und es wird noch keine Spickzettel-Datei angelegt. Ist ein Hilfsblatt verboten, dienen kompakte Merkschemata ausschließlich als Lernhilfe im Status und werden in Proben nicht benutzt.
+
 Der Spickzettel ist **kein Mini-Skript**. Aufgenommen wird nur, was in einer Aufgabe direkt Zeit spart oder einen typischen Fehler verhindert:
 
 - Formeln, Matrix- und Rechenschemata
 - Konstanten, Kernel und Tabellen mit kurzer Wirkungszuordnung
-- knappe Begriffspaare und Parameterlisten
+- knappe Begriffspaare, Kriterien- und Parameterlisten
+- Entscheidungs-, Subsumtions-, Analyse- und Argumentationsschemata
 - Vorzeichen-, Reihenfolge- und Wertebereichsfallen
 
 ## Ablauf
 
-Er wächst **nur aus tatsächlich bearbeiteten Aufgaben** — nie aus Folien, die noch niemand geübt hat.
+Er wächst **nur aus tatsächlich bearbeiteten Aufgaben** — nie aus Folien, dem Setup, der Aufgabenvorbereitung oder einer noch unbeantworteten Frage.
 
-1. Während des Lernblocks als **Kandidat** im Status sammeln.
+1. Erst nach einer eigenen Antwort oder Reparatur als **Kandidat** im Status sammeln, wenn dabei ein konkreter Zeitgewinn oder Fehlerschutz sichtbar wurde.
 2. Nach der Übungsaufgabe entscheiden: Was er ohnehin sicher erinnert, kommt nicht drauf. Was er zweimal falsch hatte, kommt drauf.
 3. In die Spickzettel-Datei übernehmen und im Status als übernommen markieren.
 

@@ -1,36 +1,38 @@
 # Abschlussphase
 
-Beginnt, sobald alle Kernthemen mindestens `übungsfähig` sind — oder zum terminierten Datum, je nachdem, was zuerst eintritt. Der Termin schlägt den Zustand: eine Probeklausur über halb gelernten Stoff ist ein brauchbarer Messpunkt, eine ausgefallene Probeklausur ist keiner.
+Beginnt, sobald alle Kernthemen mindestens `übungsfähig` sind — oder sobald das geplante Abschlussfenster erreicht ist, je nachdem, was zuerst eintritt. Meilensteine sind Anker, kein Grund, bei einem späteren tatsächlichen Lernstart den aktuellen Stand zu ignorieren: Dann wird sofort die wertvollste noch realistische Mischung aus Wissensaufbau und Nachweis gewählt.
 
 ## 1. Gemischte Wiederholung ohne Hinweise
 
-Kurz, quer über alle bearbeiteten Themen, ein bis zwei Tage nach dem jeweiligen Lernblock. Je eine Frage pro Thema, keine Vorwarnung, welches Thema kommt.
+Kurz, quer über mehrere bearbeitete Themen, mit echtem Zeitversatz zum jeweiligen Lernblock. Keine Vorwarnung, welches Thema kommt.
 
-Erst hier darf eine Stufe auf `stabil` gehen. Diese Runde ist der einzige Ort, an dem der geforderte Zeitversatz entsteht.
+Jede solche zeitversetzte, gemischte Variante darf eine Stufe auf `stabil` heben, wenn sie die im `LERNSTART.md` festgelegte Nachweisschwelle erreicht. Der geplante Wiederholungsblock stellt sicher, dass dieser Nachweis nicht vergessen wird; er ist nicht das einzige zulässige Zeitfenster.
 
 Sie zeigt außerdem, was nur im Kurzzeitgedächtnis lag — das ist meist ein anderer Satz Themen als der, den man erwartet.
 
 ## 2. Probeklausur
 
-Zum festen Termin, rückwärts vom Klausurdatum mit einem Puffertag gerechnet.
+Zum vorab festgelegten, mit anderen Prüfungen abgeglichenen Termin im Probeklausurfenster.
 
 - vollständige Altklausur oder gleichwertige selbstgebaute Mischklausur
 - volle Bearbeitungszeit
-- echte Hilfsmittel: der aktuelle Spickzettel, der zugelassene Taschenrechner
+- ausschließlich bestätigte echte Hilfsmittel; ein Spickzettel nur, wenn er zugelassen ist
 - keine Rückfragen, keine Zwischenkorrektur
+
+Reicht die verbleibende Zeit objektiv nicht für eine vollständige Probe, nutze eine zeitlich begrenzte, repräsentative Stichprobe aus den wertvollsten offenen und bereits gelernten Aufgabentypen. Kennzeichne sie als Teilprobe; sie ersetzt nicht unbemerkt die Aussagekraft einer vollständigen Klausur.
 
 ## 3. Nach Originalpunkten korrigieren
 
-Mit dem Punkteschema der Vorlage, nicht großzügiger. Ergebnis kommt in die Probeklausur-Tabelle des Status: Datum, Grundlage, Bedingungen, Punkte, größte Verluste.
+Mit dem Punkteschema der Vorlage oder dem vorab festgelegten Kriterienraster, nicht großzügiger. Geschätzte Bewertung bleibt als solche markiert. Ergebnis kommt in die Probeklausur-Tabelle des Status: Datum, Grundlage, Bedingungen, Punkte, größte Verluste.
 
-Die Probeklausur ist der einzige Punkt, an dem echte Evidenz entsteht. Alles davor ist Selbsteinschätzung.
+Die Probeklausur ist die stärkste Evidenz über Leistung in voller Länge. Kontrollvarianten und zeitversetzte Mischfragen liefern bereits begrenzte Evidenz auf Themenebene; angeleitete Lernaufgaben nicht.
 
 ## 4. Nur die größten Punktverluste nachtrainieren
 
-Nach Punkten sortieren, von oben abarbeiten, beim Puffertag aufhören. Ein Thema, das 3 Punkte kostet, bleibt liegen, wenn eines danebensteht, das 12 kostet.
+Nach erwartetem Punktverlust sortieren und bis zum letzten sinnvollen Sicherheitsfenster von oben abarbeiten. Ein Thema, das voraussichtlich 3 Punkte kostet, bleibt liegen, wenn eines danebensteht, das 12 kostet.
 
 ## 5. Spickzettel final verdichten
 
-Auf die erlaubte Fläche, lesbar. Was in der Probeklausur nicht nachgeschlagen wurde, kann weg; was gefehlt hat, kommt dazu.
+Nur falls ein Hilfsblatt erlaubt ist: auf die erlaubte Fläche, lesbar. Was in der Probeklausur nicht nachgeschlagen wurde, kann weg; was gefehlt hat, kommt dazu.
 
 Ist er handschriftlich abzugeben, den Abschreibe-Abend jetzt einplanen — er dauert länger als gedacht.

@@ -45,3 +45,22 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 - **Punkte und Stufe getrennt führen.** Eine Originalaufgabe kann nach Führung vollständig verstanden sein und unter Klausurbedingungen trotzdem nur 4/6 wert gewesen sein. Beides ist eine eigene Information.
 - **Antwortumfang respektieren.** Bereits erbrachte Zwischenschritte erneut zu verlangen, kostet Zeit und Motivation und misst nichts Neues.
 - **Adaptive Themenwechsel statt harter Quote.** Ein Abbruchkriterium verhindert endloses Nachpolieren, aber feste Minuten- oder Aufgabenzahlen verzerren den unterschiedlich großen Lernaufwand. Deshalb an natürlichen Aufgabenschnitten anhand von Restzeit, offenen Themen, Fortschritt und Nähe zum Nachweis neu priorisieren.
+
+## Fachübergreifende Testbefunde vom 27.07.2026
+
+Nach der VC-Erprobung liefen isolierte Starts für Rechnernetze und Wissenschaftliches Arbeiten nur aus den jeweiligen Rohquellen, ohne bestehende Lernstände oder frühere Chats.
+
+8. **Eine breite Themenzeile verdeckte fehlende Transferaufgaben.** Der RN-Start bündelte „L3 Routing und IP“ in einer Zeile und fand Dijkstra sowie Subnetting sofort. Erst ein ausdrücklicher Abdeckungs-Audit entdeckte, dass keine fertige Papieraufgabe den vollständigen Paketweg über mehrere Netze mit Routingentscheidung, ARP sowie wechselnden MAC- und gleichbleibenden IP-Adressen verband.
+   → Offizielle Überschriften werden in getrennt nachweisbare Kompetenzbausteine übersetzt. Vor Abschluss eines breiten Themas wird vorhandener Aufgabenpool gegen verlangte Handlungen geprüft; ungedeckte Abläufe bekommen quellenbasierte Transfer- oder Syntheseaufgaben.
+
+9. **Unbekannte Hilfsmittel führten zu unterschiedlichem Artefaktverhalten.** RN legte wegen ausdrücklichen Verbots korrekt keinen Spickzettel an; WAI erzeugte bei unbekannter Zulassung vorsorglich eine leere Spickzettel-Datei. Beide Agenten folgten derselben Skill-Version.
+   → Spickzettel-Datei nur bei bestätigter Zulassung. Bei unbekanntem Status bleiben Kandidaten im Lernstatus; bei Verbot werden Lernhilfen in Nachweisen nicht benutzt.
+
+10. **Starre Abschlussdaten kollidierten fachübergreifend.** Die isolierten Setups legten jede Probeklausur auf den Vortag. Bei RN am 06.08. und WAI am 07.08. landete dadurch die WAI-Probeklausur auf dem RN-Klausurtag.
+    → Abschlussfenster zwischen Fächern koordinieren. Termine bleiben Anker; bei jedem tatsächlichen Lernstart gewinnt der aktuelle Stand und die jetzt sinnvollste Aufgabe, nicht ein verpasster Plan.
+
+11. **„Prüfbarer Baustein“ blieb ohne Entscheidungstest agentenabhängig.** Im ersten Regressionslauf hatte RN zwar schon 20 statt 7 Statuszeilen, bündelte aber weiterhin IPv4/IPv6, ARP/NDP, ICMP und Traceroute; WAI führte einen Workflow-Sammelpunkt zusätzlich zu seinen Einzelteilen.
+    → Eine Zeile darf nur zusammenbleiben, wenn eine realistische Kontrollvariante alles darin fair nachweisen kann. Breite Doppelungen tragen keine eigene Stufe; eine Synthesezeile nur dann, wenn das Zusammenspiel selbst eine zusätzliche Leistung ist.
+
+12. **Vorbereitung erzeugte Lernartefakte ohne Lernnachweis.** WAI trug beim Setup bereits einen Workflow-Spickzettelkandidaten ein und legte eine dauerhafte Block-Prep-Datei an, bevor die erste Antwort vorlag.
+    → Kandidaten erst nach tatsächlicher Bearbeitung oder Reparatur. Dauerhaft bleiben nur die definierten Start-, Status-, Plan- und gegebenenfalls Spickzetteldateien; Blockvorbereitung, Quellenextrakte und Renderings sind temporär.
