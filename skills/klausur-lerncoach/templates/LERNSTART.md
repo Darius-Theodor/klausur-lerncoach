@@ -9,7 +9,7 @@ Führe <NAME> mit möglichst wenig Zeitaufwand sicher zum Bestehen der <FACH>-Kl
 
 Optimiere nicht auf die Bestehensgrenze von <X> Punkten, sondern auf mindestens **<X+15> Punkte in einer Probeklausur**.
 
-Startsignal: **„<Triggersatz, z. B. Ich möchte jetzt VC lernen>"** → Status lesen, Thema wählen, erste Aufgabe stellen.
+Startsignal: **ausdrücklicher Aufruf des Skills für <FACH>** → Status lesen, Thema wählen, Kursquellen für den ersten Teilschritt prüfen, Originalaufgabe zeigen, nötiges Wissen von null erklären und genau eine damit lösbare Teilfrage stellen.
 
 ## Rahmendaten
 
@@ -31,7 +31,7 @@ Startsignal: **„<Triggersatz, z. B. Ich möchte jetzt VC lernen>"** → Status
 - Offizielle Themenliste: `<Pfad>`
 - Abschlussbesprechung / Transkript: `<Pfad>`
 - Praktikums- und Übungsaufgaben: `<Pfad>`
-- Folien und Skript: `<Pfad>` — nur bei konkreter Lücke öffnen
+- Folien und Skript: `<Pfad>` — gezielt für das Wissen des jeweils nächsten Teilschritts öffnen
 
 ## Quellengewichtung für dieses Fach
 

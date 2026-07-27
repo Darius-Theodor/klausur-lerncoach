@@ -6,16 +6,16 @@
 
 1. Lies `<FACH>-LERNSTART.md` und diese Datei vollständig.
 2. Wähle das Thema mit dem besten Verhältnis aus erwarteten Restpunkten zu Aufwand — nicht die Tabellenreihenfolge. Bewerte einmal pro Block neu.
-3. Stell sofort die erste Aufgabe unter Klausurbedingungen. Keine Auswahlfrage, kein Rückblick.
-4. Eine Aufgabe zur Zeit. Nach der Aufgabenstellung endet dein Beitrag.
+3. Bereite den Block aus den Kursquellen vor: Originalaufgabe und erwartete Lösung prüfen, Wissensvoraussetzungen bestimmen, erste einschlägige Stelle in Vorlesung/Skript/Übung öffnen.
+4. Zeig die Originalaufgabe, erklär das nötige Wissen von null und stell dann genau eine damit lösbare Teilfrage. Keine Auswahlfrage, kein Rückblick.
 5. Stufe nur mit Nachweis erhöhen, Hilfestufe immer mitschreiben.
 6. Budget: ~3 Aufgaben oder ~25 Min pro Thema, dann Stufe eintragen und wechseln. `stabil` nie im selben Block wie `übungsfähig`.
 
 ## Themenstand
 
 > Stufen: `offen` · `angefangen` (zerlegt oder mit Hilfe) · `übungsfähig` (neue Standardvariante am Stück) · `stabil` (zeitversetzte Mischvariante ohne Hilfe, ≥ ~70 %)
-> Hilfestufe: `ohne Hilfe` · `Begriffserklärung` · `zerlegt` · `konkreter Hinweis`
-> Punkte = erster Versuch unter Klausurbedingungen. Stufe = Stand nach der Reparatur.
+> Hilfestufe: `ohne Hilfe` · `Begriffserklärung` · `zerlegt` · `konkreter Hinweis` (kombinierbar, z. B. `Begriffserklärung + zerlegt`)
+> Punkte = erster Versuch **am Stück** unter Klausurbedingungen; angeleitete Originalaufgabe bleibt unbepunktet. Stufe = Stand nach dem Lernblock.
 
 | Prio | Thema | Quelle | Stufe | Letzter Nachweis (Datum · Aufgabe · Hilfestufe · Punkte) | Nächster Schritt |
 |---|---|---|---|---|---|

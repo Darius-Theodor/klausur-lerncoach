@@ -1,11 +1,29 @@
 # Material
 
-## Hierarchie
+## Quellen haben verschiedene Rollen
 
-1. **Originalaufgaben zuerst** — Altklausur, offizielle Probeaufgaben. Generierte Varianten erst, wenn die durch sind.
-2. **Vorlesungstranskript als Musterlösung und Bewertungshinweis** — die Abschlussbesprechung sagt oft ausdrücklich, worauf Punkte gegeben werden.
-3. **Folien und Skript nur bei einer konkreten Wissenslücke öffnen.** Nie „zum Überblick durchgehen".
-4. **Vorlesungsvideos nicht nachholen.** Bei Bedarf transkribieren und den Text durchsuchen (unten).
+Keine einzelne Rangliste entscheidet alles:
+
+1. **Aufgabenquelle:** Altklausur und offizielle Probeaufgaben bestimmen Aufgabenstil, Umfang und Punkte. Generierte Varianten kommen erst als Nachweis.
+2. **Wissensquelle:** Vorlesungsfolien, Skript und Übungen liefern die Begriffe und Verfahren, die vor dem jeweiligen Teilschritt von null erklärt werden.
+3. **Lösungs- und Bewertungsquelle:** Musterlösung, Klausurbesprechung und Transkript zeigen den erwarteten Rechenweg, akzeptierte Formulierungen und Folgefehler.
+4. **Themenquelle:** Offizielle Themenliste und ausdrückliche Aussagen der Lehrperson bestimmen, was gelernt oder ausgeschlossen wird.
+
+Wenn Fachwissen im Status nicht bereits nachgewiesen ist, liegt bei Baseline Null eine konkrete Wissenslücke vor. Warte nicht auf eine falsche Antwort, um Folien oder Skript zu öffnen.
+
+## Vorbereitung eines Lernblocks
+
+Vor der ersten Frage:
+
+1. Zeig die vollständige Originalaufgabe als sichtbaren Kontext.
+2. Klär mit Lösung oder Besprechung, welche Lösungsschritte und Punkte erwartet werden.
+3. Zerleg den Weg in Wissensvoraussetzungen und Lösungsschritte.
+4. Öffne für den ersten Schritt die genaue Stelle in Vorlesung, Skript oder Übung.
+5. Erklär nur dieses Wissen und stell danach eine damit lösbare Teilfrage.
+
+Vor jedem späteren Teilschritt wiederholst du Schritt 4, sobald neues Fachwissen nötig wird. Nutze vorhandenes Kursmaterial statt Modellgedächtnis. Lies trotzdem keine vollständige Vorlesung auf Vorrat.
+
+Vorlesungsvideos nicht vollständig nachholen. Bei Bedarf transkribieren und den Text gezielt durchsuchen.
 
 ## Gewichtung bei Widerspruch
 

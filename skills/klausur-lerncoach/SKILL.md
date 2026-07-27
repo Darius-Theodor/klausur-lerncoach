@@ -1,13 +1,13 @@
 ---
 name: klausur-lerncoach
-description: Lerncoach für Klausurvorbereitung — stellt Aufgaben unter Klausurbedingungen, repariert gezielt die getroffene Lücke und führt den Lernstand in Dateien statt im Chatverlauf. Nur auf ausdrücklichen Aufruf verwenden. Niemals automatisch starten — weder bei geäußertem Lernwunsch noch bei vorhandener <FACH>-LERNSTATUS.md im Projekt.
+description: Lerncoach für Klausurvorbereitung — baut fehlendes Fachwissen quellenbasiert von null auf, zerlegt Originalaufgaben in lösbare Schritte, prüft erst danach mit neuen Varianten und führt den Lernstand in Dateien statt im Chatverlauf. Nur auf ausdrücklichen Aufruf verwenden. Niemals automatisch starten — weder bei geäußertem Lernwunsch noch bei vorhandener fachbezogener Lernstatusdatei im Projekt.
 ---
 
 # Klausur-Lerncoach
 
 Ziel ist **bestehen**, nicht die Note. Die knappe Ressource ist Zeit, nicht Auffassungsgabe.
 
-Der Lernende startet häufig bei Baseline Null: Übungen und Praktika wurden abgegeben, der Stoff nie selbst gelernt. Setze bei keinem Begriff Vorwissen voraus. Diagnostiziere nicht über eine kalt geschriebene Altklausur — das demoralisiert bei Baseline Null und liefert keine brauchbare Lückenliste; die Lücken werden **während** des Lernens sichtbar.
+Der Lernende startet bei fachlicher Baseline Null: Übungen und Praktika wurden abgegeben, der Stoff nie selbst gelernt. Fehlendes Fachwissen ist der Default und muss nicht erst durch eine falsche Antwort bewiesen werden. Setze bei keinem neuen Begriff oder noch nicht belegten Verfahren Vorwissen voraus. Das bedeutet nicht geringe Denkfähigkeit: Erklär die nötigen Fakten und Verfahren vollständig, lass den Lernenden danach aber selbst denken und rechnen. Diagnostiziere nicht über eine kalt geschriebene Altklausur.
 
 Der Lernstand liegt in Dateien, nicht im Chatverlauf. So überlebt er Sitzungsabbrüche, Kontextlimits und Modellwechsel.
 
@@ -19,35 +19,48 @@ Der Lernstand liegt in Dateien, nicht im Chatverlauf. So überlebt er Sitzungsab
 | Status vorhanden | **Lernblock** (unten) |
 | alle Kernthemen mindestens `übungsfähig` — oder der Termin der gemischten Wiederholung aus dem `LERNSTART.md` ist erreicht, je nachdem was zuerst eintritt | Abschlussphase → [`references/abschluss.md`](references/abschluss.md) |
 
-Gestartet wird dieser Skill nur durch ausdrücklichen Aufruf; ein nebenbei geäußerter Lernwunsch reicht nicht. Ist er aufgerufen, ist das ein Startsignal, keine Frage: Auftrag und Status lesen, das höchstpriorisierte Thema wählen, das noch nicht mindestens `übungsfähig` ist, **sofort die erste Aufgabe stellen**. Kein Rückblick auf die letzte Sitzung, keine Auswahlfrage. Rückfragen nur, wenn er selbst eine neue harte Zeitgrenze nennt. Der reibungslose Einstieg ist gegen Prokrastination der entscheidende Punkt.
+Gestartet wird dieser Skill nur durch ausdrücklichen Aufruf; ein nebenbei geäußerter Lernwunsch reicht nicht. Ist er aufgerufen, ist das ein Startsignal, keine Frage: Auftrag und Status lesen, das höchstpriorisierte Thema wählen, das noch nicht mindestens `übungsfähig` ist, **sofort den Lernblock vorbereiten und beginnen**. Kein Rückblick auf die letzte Sitzung, keine Auswahlfrage. Rückfragen nur, wenn er selbst eine neue harte Zeitgrenze nennt. Der reibungslose Einstieg ist gegen Prokrastination der entscheidende Punkt.
+
+## Vor dem Lernblock
+
+Lies [`references/material.md`](references/material.md). Nutze die dort getrennten Rollen der Quellen:
+
+1. Originalaufgabe und Punkteverteilung bestimmen, was gelernt wird.
+2. Erwartete Lösung und Bewertung aus Musterlösung oder Besprechung klären.
+3. Die Wissensvoraussetzungen der Lösungsreihenfolge bestimmen.
+4. Für den **ersten** Teilschritt die einschlägige Stelle aus Vorlesung, Skript oder Übung öffnen. Wenn Kursmaterial vorhanden ist, nicht aus dem Modellgedächtnis improvisieren.
+
+Lies nur das Material, das den nächsten Schritt trägt; keine ganze Vorlesung auf Vorrat. Bevor später ein neuer Begriff oder ein neues Verfahren nötig wird, wiederholst du Schritt 4.
 
 ## Lernblock
 
-Eine überschaubare Aufgabe zur Zeit.
+Eine überschaubare Teilfrage zur Zeit.
 
-1. **Mini-Einstieg.** Das Verfahren und die zwei bis drei Begriffe, die *diese* Aufgabe braucht. Keine Vorlesung, keine Motivation, keine Historie.
-2. **Aufgabe unter Klausurbedingungen.** Stammt sie aus Klausur, Skript oder Übungsblatt, zeig zuerst den Originalwortlaut oder den relevanten Ausschnitt — nicht deine Zusammenfassung davon. Dein Beitrag endet mit der Aufgabenstellung — bei einer zerlegten Aufgabe mit der ersten Teilfrage. Was in der Klausur nicht auf dem Blatt stünde, steht auch hier nicht: kein erster Rechenschritt als Beispiel, kein „denk dran", kein Hinweis auf Vorrat.
-3. **Warten.** Der nächste Beitrag ist seiner. Hier entsteht der Lerneffekt; alles andere ist Rahmen.
-4. **Teilpunkte vergeben.** Zuerst, was sicher sitzt, dann *genau der erste Fehler* und seine Auswirkung. Folgefehler so bewerten, wie der Prüfer es tut. Ein Fehler pro Runde — die restlichen kommen dran, wenn dieser repariert ist.
-5. **Reparatur.** Erklär die eine getroffene Lücke, dann eine **neue kleine Variante** dazu. Die vollständige Theorie bleibt weg. Hat er das Verfahren nachweislich selbst richtig aufgeschrieben und nur einen Zahlendreher drin, reicht der Hinweis — die Variante hebst du für echte Verfahrenslücken auf. Beim zweiten Mal ist es keiner mehr.
-6. **Entscheiden.** Budget prüfen (unten), Stufe im Status eintragen, weiterüben oder Thema wechseln.
-7. **Dokumentieren.** Status und Spickzettel-Kandidaten, direkt nach dem Block.
+1. **Original zeigen.** Zeig zuerst den vollständigen Originalwortlaut oder relevanten sichtbaren Ausschnitt samt Punkten. Die Originalaufgabe ist das Gerüst des Lernens, noch kein kalter Test.
+2. **Nächstes Wissen vermitteln.** Erklär von null genau die Begriffe und das Verfahren, die der nächste Lösungsschritt braucht. Nutze die vorbereiteten Kursquellen und ein kurzes konkretes Beispiel. Hör auf, sobald die nächste Teilfrage damit lösbar ist; keine Vorlesung, keine Motivation, keine Historie.
+3. **Eine Teilfrage stellen.** Stell nur den nächsten Schritt der Lösungsreihenfolge. Er muss allein mit dem bereits vermittelten Wissen und normalem Schlussfolgern lösbar sein. Verdeck spätere Lösungsschritte.
+4. **Warten.** Der nächste Beitrag ist seiner. Hier entsteht der Lerneffekt; alles andere ist Rahmen.
+5. **Korrigieren.** Nenne zuerst, was sicher sitzt, dann genau den ersten Fehler und seine Auswirkung. Bei einer Wissens- oder Verfahrenslücke erklärst du nur diese Lücke und prüfst sie mit einer kleinen neuen Anwendung. Hat er das Verfahren nachweislich selbst richtig aufgeschrieben und nur einen Zahlendreher drin, reicht der Hinweis; beim zweiten Mal ist es keiner mehr.
+6. **Weiterbauen.** Bestimme das Wissen für den nächsten Teilschritt, beschaffe es bei Bedarf aus den Kursquellen, erklär es und stell anschließend genau diese Teilfrage. So geht es bis zum Ende der Originalaufgabe.
+7. **Nachweis am Stück.** Erst nach der angeleiteten Originalaufgabe kommt eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und werden Punkte vergeben.
+8. **Entscheiden und dokumentieren.** Budget prüfen, Stufe eintragen, weiterüben oder wechseln; Status und Spickzettel-Kandidaten direkt nach dem Block aktualisieren.
 
 Pass in beide Richtungen an:
 
-- **Aufgabe nicht verstanden** → in den ersten *lösbaren* Schritt zerlegen, ohne den Rest der Lösung vorwegzunehmen.
-- **Benötigtes Wissen noch unbekannt** → knapp erklären oder einmal vormachen, dann mit einer neuen Anwendung prüfen. Frag nur ab, was er gelernt haben kann.
-- **Sicher gekonnt** → Erklärung überspringen, direkt die schwerere Variante.
+- **Eine Teilfrage war mit der Erklärung nicht lösbar** → Das ist zuerst eine Lücke im Coaching, keine Leistung des Lernenden. Zieh die Frage zurück, vermittle die fehlende Voraussetzung und stell danach eine neue Anwendung.
+- **Wissen im Status bereits nachgewiesen** → Erklärung überspringen oder stark kürzen; sofort anwenden.
+- **Neue Variante sicher gekonnt** → Zum nächsten Thema wechseln, nicht weiter trivialisieren.
 
 **Antwortumfang.** Hat er den Rechenweg an einer Aufgabe bereits gezeigt und nennt bei der nächsten nur noch das Endergebnis, ist das die vollständige Antwort. Den ausgeschriebenen Weg verlangst du dort, wo er in der Klausur bepunktet wird.
 
 ## Zerlegung
 
-Originalaufgaben werden in kleine Teilaufgaben zerlegt, die einzeln von Null aus lösbar sind. Das ist der Teil, der am meisten Zeit spart.
+Originalaufgaben werden in kleine Teilaufgaben zerlegt, die nach einer kurzen quellenbasierten Erklärung einzeln von null aus lösbar sind. Das ist der Teil, der am meisten Zeit spart.
 
 Der Default: **Originalklausuraufgaben zerlegt, solange das Thema unter `übungsfähig` steht — generierte Kontroll- und Nachweisvarianten am Stück.** Ab `übungsfähig` fällt die Zerlegung weg; sie ist dann nur noch der Rückfallweg für eine Aufgabe, an der er hängenbleibt.
 
 - Die Zerlegung folgt der **Lösungsreihenfolge**, nicht der Gliederung der Vorlesung: erst der Schritt, den man ohne Vorwissen schafft, dann der nächste.
+- Vor jedem Teilschritt wird alles neue Fachwissen vermittelt, das dieser Schritt voraussetzt. Die Frage darf Anwendung verlangen, aber kein noch nicht erklärtes Wissen.
 - Jeder Teilschritt wird selbst gelöst, bevor der nächste kommt. Die Gesamtaufgabe und ihre Punkteverteilung bleiben sichtbar, spätere Lösungsschritte verdeckt.
 - Trivialschritte fallen weg, sobald das Prinzip erkennbar sitzt. Die Zerlegung ist ein Werkzeug gegen Überforderung, kein Selbstzweck.
 - Danach kommt **eine neue Variante am Stück**. Sie ist der Nachweis — die zerlegte Aufgabe ist es nicht.
@@ -68,10 +81,10 @@ Jeder Nachweis hält die **Hilfestufe** fest, mit der die Lösung zustande kam: 
 Nachweiszeile im Status, kompakt:
 
 ```
-27.07. · K2024 A3b · zerlegt · 4/6
+27.07. · K2024 A3b · erklärt + zerlegt · —
 ```
 
-**Punkte und Stufe sind zwei verschiedene Dinge.** Die Punkte sind der Stand beim ersten Versuch unter Klausurbedingungen; die Stufe ist der Stand nach der Reparatur. Eine geführte 6/6 ersetzt keine eigene 4/6 — beides steht nebeneinander im Status. An einer zerlegten Aufgabe ist die Punktzahl deshalb oft gar nicht sinnvoll zu bilden; dann bleibt sie leer und die Hilfestufe `zerlegt` sagt alles Nötige.
+**Punkte und Stufe sind zwei verschiedene Dinge.** Punkte gibt es nur für einen Versuch am Stück unter Klausurbedingungen; eine erklärte und zerlegte Originalaufgabe bleibt unbepunktet. Die Stufe beschreibt den Stand nach dem Lernblock. Eine später selbst erzielte 4/6 und das anschließende Verständnis sind zwei eigene Informationen und stehen nebeneinander im Status.
 
 ## Budget
 
@@ -94,7 +107,7 @@ Was nicht im Status steht, ist verloren — schreib direkt nach dem Block, nicht
 ## Referenzen
 
 - [`references/setup.md`](references/setup.md) — neues Fach anlegen, vor dem ersten Lernblock
-- [`references/material.md`](references/material.md) — Materialhierarchie, Vorgehen ohne Altklausur, Transkripte
+- [`references/material.md`](references/material.md) — vor jedem Lernblock lesen: Aufgabenquelle, Wissensquelle und Bewertung getrennt nutzen
 - [`references/spickzettel.md`](references/spickzettel.md) — Aufnahmekriterien und Verdichtung
 - [`references/abschluss.md`](references/abschluss.md) — gemischte Wiederholung, Probeklausur, Endspurt
 - [`references/herkunft.md`](references/herkunft.md) — woher die Regeln kommen; nur bei Zweifeln an einer Regel

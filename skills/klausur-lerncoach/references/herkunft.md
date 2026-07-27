@@ -2,7 +2,7 @@
 
 Nur lesen, wenn eine Regel im Skill unnötig streng wirkt. Jede hier genannte Regel steht dort, weil ihr Fehlen einmal konkret Punkte gekostet hat.
 
-Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 12 Themen, Baseline Null, rund zwei Tage. Alle sechs Nachträge unten stammen aus diesem Durchlauf (23.–25.07.2026).
+Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 12 Themen, Baseline Null, rund zwei Tage. Alle sieben Fehler unten stammen aus diesem Durchlauf (23.–25.07.2026).
 
 ## Was getragen hat
 
@@ -13,7 +13,7 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 - **Aktive Reparaturschleife** (Fehler → gezielte Variante → korrekt) statt erneutem Erklären.
 - **Nachweispflicht für Stufenerhöhungen.** Der einzige Schutz gegen Selbsttäuschung.
 
-## Die sechs Fehler
+## Die sieben Fehler
 
 1. **Die offizielle Themenliste wurde nie als Checkliste gegen den Status gelegt.** Der Lernplan kam aus der Altklausur. Folge: fünf ausdrücklich angesagte Themen fielen komplett durchs Raster.
    → Jeder Punkt der Themenliste wird beim Anlegen genau eine Statuszeile ([`setup.md`](setup.md) §2).
@@ -34,6 +34,9 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 
 6. **Der Spickzettel wuchs ungebremst.** Er muss am Ende auf die erlaubte Fläche passen; ohne laufende Verdichtung wird das ein Arbeitsabend direkt vor der Klausur.
    → Ab der Hälfte der Themen bei jeder Aufnahme einen Eintrag streichen oder zusammenfassen.
+
+7. **Es wurde geprüft, bevor das nötige Wissen vermittelt war.** Im VC-Durchlauf wurden unter anderem `location`, `uniform` sowie `out`/`in` abgefragt, bevor ihre Bedeutung beziehungsweise die Shader-Pipeline erklärt war. Der Lernende musste mehrfach mit „keine Ahnung" oder dem ausdrücklichen Hinweis auf Nullwissen die Erklärung erst auslösen. Ursache war die konkrete Anweisung „Aufgabe unter Klausurbedingungen", während „Baseline Null" nur allgemein und die Materialnutzung reaktiv formuliert war.
+   → Baseline Null ist die bekannte Ausgangslage, kein erst zu diagnostizierender Fehler. Vor jedem Teilschritt die nötige Wissensvoraussetzung aus den Kursquellen beschaffen und erklären; Klausurbedingungen gelten erst für eine neue Nachweisvariante am Stück.
 
 ## Spätere Nachträge
 
