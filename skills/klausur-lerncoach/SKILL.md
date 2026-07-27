@@ -44,13 +44,14 @@ Eine überschaubare Teilfrage zur Zeit.
 4. **Warten.** Der nächste Beitrag ist seiner. Hier entsteht der Lerneffekt; alles andere ist Rahmen.
 5. **Korrigieren.** Nenne zuerst, was sicher sitzt, dann genau den ersten Fehler und seine Auswirkung. Bei einer Wissens- oder Verfahrenslücke erklärst du nur diese Lücke und prüfst sie mit einer kleinen neuen Anwendung. Hat er das Verfahren nachweislich selbst richtig aufgeschrieben und nur einen Zahlendreher drin, reicht der Hinweis; beim zweiten Mal ist es keiner mehr.
 6. **Weiterbauen.** Bestimme das Wissen für den nächsten Teilschritt, beschaffe es bei Bedarf aus den Kursquellen, erklär es und stell anschließend genau diese Teilfrage. So geht es bis zum Ende der Lernaufgabe.
-7. **Nachweis am Stück.** Erst nach der angeleiteten Lernaufgabe kommt eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Auch ohne Altklausur müssen Lernaufgabe und Kontrollvariante verschieden sein. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und werden Punkte vergeben.
-8. **Entscheiden und dokumentieren.** Budget prüfen, Stufe eintragen, weiterüben oder wechseln; Status und Spickzettel-Kandidaten direkt nach dem Block aktualisieren.
+7. **Nachweis am Stück.** Sobald ein zusammenhängender Themenbaustein vermittelt ist und ein selbstständiger Versuch aussagekräftig wäre, stell eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Erzwing sie nicht nach jeder kleinen Lernaufgabe und nicht zwingend im selben Block. Auch ohne Altklausur müssen angeleitete Lernaufgabe und Kontrollvariante verschieden sein. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und werden Punkte vergeben.
+8. **Entscheiden und dokumentieren.** Prüf an einem natürlichen Aufgabenschnitt adaptiv, ob Weiterüben oder Wechseln mehr erwartete Punkte bringt. Trag die erreichte Stufe ein; `übungsfähig` erst nach der Kontrollvariante. Aktualisiere Status und Spickzettel-Kandidaten direkt nach dem Block.
 
 Pass in beide Richtungen an:
 
 - **Eine Teilfrage war mit der Erklärung nicht lösbar** → Das ist zuerst eine Lücke im Coaching, keine Leistung des Lernenden. Zieh die Frage zurück, vermittle die fehlende Voraussetzung und stell danach eine neue Anwendung.
 - **Wissen im Status bereits nachgewiesen** → Erklärung überspringen oder stark kürzen; sofort anwenden.
+- **Prinzip nach wenigen Schritten erkennbar verstanden** → Triviale Zwischenschritte streichen und direkt klausurnäher werden.
 - **Neue Variante sicher gekonnt** → Zum nächsten Thema wechseln, nicht weiter trivialisieren.
 
 **Antwortumfang.** Hat er den Rechenweg an einer Aufgabe bereits gezeigt und nennt bei der nächsten nur noch das Endergebnis, ist das die vollständige Antwort. Den ausgeschriebenen Weg verlangst du dort, wo er in der Klausur bepunktet wird.
@@ -59,13 +60,13 @@ Pass in beide Richtungen an:
 
 Lernaufgaben werden in kleine Teilaufgaben zerlegt, die nach einer kurzen quellenbasierten Erklärung einzeln von null aus lösbar sind. Das gilt für Originalaufgaben ebenso wie für quellenbasierte Ersatzaufgaben und ist der Teil, der am meisten Zeit spart.
 
-Der Default: **Original- oder Ersatz-Lernaufgaben zerlegt, solange das Thema unter `übungsfähig` steht — neue Kontroll- und Nachweisvarianten am Stück.** Ab `übungsfähig` fällt die Zerlegung weg; sie ist dann nur noch der Rückfallweg für eine Aufgabe, an der er hängenbleibt.
+Der Default: **Original- oder Ersatz-Lernaufgaben zerlegt, solange das Thema unter `übungsfähig` steht — Kontroll- und Nachweisvarianten am Stück.** Wie fein zerlegt wird, richtet sich nach den Antworten: bei neuem Wissen klein beginnen, nach erkennbarem Verständnis sofort größere klausurnahe Schritte stellen. Ab `übungsfähig` fällt die Zerlegung weg; sie ist dann nur noch der Rückfallweg für eine Aufgabe, an der er hängenbleibt.
 
 - Die Zerlegung folgt der **Lösungsreihenfolge**, nicht der Gliederung der Vorlesung: erst der Schritt, den man ohne Vorwissen schafft, dann der nächste.
 - Vor jedem Teilschritt wird alles neue Fachwissen vermittelt, das dieser Schritt voraussetzt. Die Frage darf Anwendung verlangen, aber kein noch nicht erklärtes Wissen.
 - Jeder Teilschritt wird selbst gelöst, bevor der nächste kommt. Die Gesamtaufgabe und ihre Punkteverteilung bleiben sichtbar, spätere Lösungsschritte verdeckt.
 - Trivialschritte fallen weg, sobald das Prinzip erkennbar sitzt. Die Zerlegung ist ein Werkzeug gegen Überforderung, kein Selbstzweck.
-- Danach kommt **eine neue Variante am Stück**. Sie ist der Nachweis — die zerlegte Aufgabe ist es nicht.
+- Vor `übungsfähig` kommt **eine neue Variante am Stück**. Sie ist der Nachweis — die zerlegte Aufgabe ist es nicht. Sie darf an einem späteren natürlichen Schnitt oder in einem späteren Block folgen.
 
 ## Nachweis und Stufen
 
@@ -83,17 +84,20 @@ Jeder Nachweis hält die **Hilfestufe** fest, mit der die Lösung zustande kam: 
 Nachweiszeile im Status, kompakt:
 
 ```
-27.07. · K2024 A3b · erklärt + zerlegt · —
+27.07. · K2024 A3b · Begriffserklärung + zerlegt · —
 ```
 
 **Punkte und Stufe sind zwei verschiedene Dinge.** Punkte gibt es nur für einen Versuch am Stück unter Klausurbedingungen; eine erklärte und zerlegte Lernaufgabe bleibt unbepunktet. Die Stufe beschreibt den Stand nach dem Lernblock. Eine später selbst erzielte 4/6 und das anschließende Verständnis sind zwei eigene Informationen und stehen nebeneinander im Status.
 
-## Budget
+## Steuerung und Themenwechsel
 
-- **Pro Thema und Block: rund drei Aufgaben oder etwa 25 Minuten** bis zur Stufenentscheidung. Danach Stufe eintragen und wechseln, auch wenn es unfertig wirkt.
+- **Keine feste Minuten- oder Aufgabenquote pro Thema.** Eine einzelne Aufgabe kann eine Begriffsfrage oder ein langer Rechenweg sein; eine starre Zahl misst den Lernaufwand nicht.
+- Entscheide nur an einem **natürlichen Aufgabenschnitt** neu. Berücksichtige Restzeit bis zur Klausur, Zahl und Wert der offenen Themen, erreichte Stufe, beobachtete Sicherheit, Aufwand der letzten Schritte und Nähe zu einem aussagekräftigen Nachweis. Quellenrecherche des Agenten ist keine Lernzeit des Lernenden.
+- **Weiterüben**, wenn eine konkrete Reparatur offen oder ein sinnvoller Nachweis mit wenigen weiteren Schritten erreichbar ist. **Wechseln**, wenn die Kontrollvariante sicher gelingt oder wiederholtes Festhängen bei anderen offenen Themen mehr erwartete Punkte liegen lässt. Nie mitten in einer offenen Reparatur nur wegen Zeit- oder Aufgabenanzahl abbrechen.
+- Ein Block darf bei `angefangen` enden. Die Kontrollvariante kann später folgen; ohne sie bleibt das Thema unter `übungsfähig`.
 - **`stabil` entsteht nie im selben Block wie `übungsfähig`.** Der Zeitversatz ist Teil des Nachweises. Damit endet jeder Block spätestens bei `übungsfähig`, und Nachpolieren an bereits sitzenden Themen fällt weg.
-- Nach je drei neuen Themen: **eine einzelne alte Frage ohne Hinweis anbieten**, zwei Minuten. Sie zeigt, was nur im Kurzzeitgedächtnis lag. Ein Angebot, keine Pflicht — der Einstieg bleibt reibungsfrei. Sie ist Diagnose und verändert keine Stufe; `stabil` wird nur in der terminierten gemischten Wiederholung vergeben.
-- **Priorität** ist erwartete Restpunkte geteilt durch geschätzten Aufwand, einmal pro Block neu bewertet — nicht die Reihenfolge der Themenliste. Rechenschemata mit fester Punktzahl stehen fast immer oben, Begriffsthemen unten.
+- Biete an einem passenden natürlichen Schnitt **eine einzelne alte Frage ohne Hinweis** an, wenn mehrere neue Themen dazwischenliegen oder der Erhalt unsicher ist. Ein Angebot, keine Pflicht. Sie ist Diagnose und verändert keine Stufe; `stabil` wird nur in der terminierten gemischten Wiederholung vergeben.
+- **Priorität** ist erwartete Restpunkte geteilt durch geschätzten Aufwand, an jedem natürlichen Blockende neu bewertet — nicht die Reihenfolge der Themenliste. Rechenschemata mit fester Punktzahl stehen fast immer oben, Begriffsthemen unten.
 
 ## Artefakte
 

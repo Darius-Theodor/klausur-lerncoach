@@ -43,7 +43,7 @@ Startsignal: **ausdrücklicher Aufruf des Skills für <FACH>** → Status lesen,
 
 ## Erster Start
 
-Wenn noch kein Thema bearbeitet wurde, beginne mit <schnellem, motivierendem Thema> als kurzem Punktgewinn. Danach im selben Block weiter mit <nächstes Thema>.
+Wenn noch kein Thema bearbeitet wurde, beginne mit <schnellem, motivierendem Thema> für ein frühes Erfolgserlebnis an klausurrelevantem Stoff. Danach adaptiv entscheiden, ob Vertiefen oder der Wechsel zu <nächstes Thema> mehr bringt.
 
 ## Logistik — bis <Datum> geklärt
 

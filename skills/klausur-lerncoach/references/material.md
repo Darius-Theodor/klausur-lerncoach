@@ -43,7 +43,7 @@ Der Normalfall, nicht die Ausnahme. Der wichtigste Aufgabenpool fehlt und muss e
 
 Ohne Altklausur sind die Transkripte nicht Ergänzung, sondern Hauptquelle für alles, was über den reinen Stoff hinausgeht.
 
-Für jeden Lernblock entsteht zuerst **eine** Ersatz-Lernaufgabe als angeleitetes Gerüst und zusätzlich **eine andere** Kontrollvariante für den späteren Nachweis am Stück. Gib die Ersatzaufgabe nicht als Original aus. Wenn Umfang, Punkte oder Klausurstil nicht belegt sind, kennzeichne sie als geschätzt, statt Scheingenauigkeit zu erzeugen.
+Für jeden Themenbaustein entsteht zuerst **eine** Ersatz-Lernaufgabe als angeleitetes Gerüst und zusätzlich **eine andere** Kontrollvariante für den späteren Nachweis am Stück. Die Kontrollvariante muss nicht im selben Block folgen, aber vor der Stufe `übungsfähig`. Gib die Ersatzaufgabe nicht als Original aus. Wenn Umfang, Punkte oder Klausurstil nicht belegt sind, kennzeichne sie als geschätzt, statt Scheingenauigkeit zu erzeugen.
 
 ## Videos verwertbar machen
 

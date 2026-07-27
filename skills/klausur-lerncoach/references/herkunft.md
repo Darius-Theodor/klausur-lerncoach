@@ -7,10 +7,11 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 ## Was getragen hat
 
 - **Zustand in Dateien statt im Chat.** Überlebt Sitzungsabbrüche, Kontextlimits und Modellwechsel.
-- **Ein Triggersatz ohne Rückfragen.** Der teuerste Moment ist der Einstieg, nicht das Lernen.
+- **Ausdrücklicher Start ohne Rückfragen.** Der teuerste Moment ist der Einstieg, nicht das Lernen.
 - **Zerlegte Originalaufgaben.** Von Null auf lösbar in Minuten statt Stunden — der wirksamste Einzelbaustein.
+- **Fester Dialogrhythmus, flexible Schrittgröße.** Erklären → eine Anwendung → warten trug durchgehend; sobald das Prinzip saß, wurden unnötige Minischritte dagegen als störend erlebt.
 - **Ehrliches Sitzungsprotokoll**, das Fehler notiert und nicht nur Erfolge. Es ist die Grundlage der Fehlerliste und des Spickzettels.
-- **Aktive Reparaturschleife** (Fehler → gezielte Variante → korrekt) statt erneutem Erklären.
+- **Aktive Reparaturschleife** (fehlende Voraussetzung gezielt erklären → neue Anwendung → korrekt) statt dieselbe allgemeine Erklärung nur zu wiederholen.
 - **Nachweispflicht für Stufenerhöhungen.** Der einzige Schutz gegen Selbsttäuschung.
 
 ## Die sieben Fehler
@@ -43,4 +44,4 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 - **Hilfestufe im Nachweis.** Ohne sie liest sich eine stark geführte Lösung im Status wie eine eigenständige, und die Stufe wirkt besser, als sie ist.
 - **Punkte und Stufe getrennt führen.** Eine Originalaufgabe kann nach Führung vollständig verstanden sein und unter Klausurbedingungen trotzdem nur 4/6 wert gewesen sein. Beides ist eine eigene Information.
 - **Antwortumfang respektieren.** Bereits erbrachte Zwischenschritte erneut zu verlangen, kostet Zeit und Motivation und misst nichts Neues.
-- **Zeitbudget pro Thema.** Ohne Abbruchkriterium führt „weiterüben oder wechseln" zuverlässig zum Weiterüben — das ist Fehler 2 aus einer anderen Richtung.
+- **Adaptive Themenwechsel statt harter Quote.** Ein Abbruchkriterium verhindert endloses Nachpolieren, aber feste Minuten- oder Aufgabenzahlen verzerren den unterschiedlich großen Lernaufwand. Deshalb an natürlichen Aufgabenschnitten anhand von Restzeit, offenen Themen, Fortschritt und Nähe zum Nachweis neu priorisieren.

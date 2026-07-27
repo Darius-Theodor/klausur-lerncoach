@@ -55,4 +55,4 @@ Aus [`../templates/`](../templates/): `<FACH>-LERNSTART.md`, `<FACH>-LERNSTATUS.
 
 ## 9. Ersten Lernblock starten
 
-Mit einem schnellen, motivierenden Punktgewinn — nicht mit dem schwersten Thema. Das erste Erfolgserlebnis entscheidet, ob ein zweiter Block stattfindet.
+Mit einem schnellen Erfolgserlebnis an einem punkterelevanten Thema — nicht mit dem schwersten Thema. Das erste Erfolgserlebnis entscheidet, ob ein zweiter Block stattfindet.
