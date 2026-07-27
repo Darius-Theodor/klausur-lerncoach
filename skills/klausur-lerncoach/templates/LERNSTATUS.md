@@ -7,7 +7,7 @@
 1. Lies `<FACH>-LERNSTART.md` und diese Datei vollständig.
 2. Wähle das Thema mit dem besten Verhältnis aus erwarteten Restpunkten zu Aufwand — nicht die Tabellenreihenfolge. Bewerte einmal pro Block neu.
 3. Bereite den Block aus den Kursquellen vor: Original- oder quellenbasierte Ersatzaufgabe und erwartete Lösung prüfen, Wissensvoraussetzungen bestimmen, erste einschlägige Stelle in Vorlesung/Skript/Übung öffnen.
-4. Zeig die Lernaufgabe, erklär das nötige Wissen von null und stell dann genau eine damit lösbare Teilfrage. Ersatzaufgaben als solche kennzeichnen und ihre Quellenbasis nennen. Beende deinen Beitrag nach der Teilfrage und warte auf die Antwort. Keine Auswahlfrage, kein Rückblick.
+4. Zeig die Lernaufgabe; bei bild- oder layoutabhängigen Aufgaben auch den gerenderten Originalausschnitt. Erklär das nötige Wissen von null und stell dann genau eine damit lösbare Teilfrage. Ersatzaufgaben als solche kennzeichnen und ihre Quellenbasis nennen. Beende deinen Beitrag nach der Teilfrage und warte auf die Antwort. Keine Auswahlfrage, kein Rückblick.
 5. Stufe nur mit Nachweis erhöhen, Hilfestufe immer mitschreiben.
 6. Entscheide an natürlichen Aufgabenschnitten adaptiv über Vertiefen oder Wechseln: Restzeit, offene Themen, Sicherheit, letzter Aufwand und Nähe zum Nachweis abwägen. Keine feste Minuten- oder Aufgabenquote. `übungsfähig` erst nach einer Kontrollvariante am Stück; sie darf in einem späteren Block folgen. `stabil` nie im selben Block wie `übungsfähig`.
 

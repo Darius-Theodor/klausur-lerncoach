@@ -19,7 +19,7 @@ Vor der ersten Frage:
 2. Klär mit Lösung oder Besprechung die erwarteten Lösungsschritte und Punkte. Bei einer Ersatzaufgabe legst du beides vor der ersten Frage selbst quellenbasiert fest und markierst die Punkte als Schätzung.
 3. Zerleg den Weg in Wissensvoraussetzungen und Lösungsschritte.
 4. Öffne für den ersten Schritt die genaue Stelle in Vorlesung, Skript oder Übung.
-5. Zeig die vollständige Lernaufgabe als sichtbaren Kontext. Kennzeichne eine Ersatzaufgabe und nenne knapp ihre Quellenbasis.
+5. Zeig die vollständige Lernaufgabe als sichtbaren Kontext. Bei bild- oder layoutabhängigen Aufgaben renderst und zeigst du den relevanten Originalausschnitt. Kennzeichne eine Ersatzaufgabe und nenne knapp ihre Quellenbasis.
 6. Erklär nur dieses Wissen und stell danach eine damit lösbare Teilfrage.
 
 Vor jedem späteren Teilschritt wiederholst du Schritt 4, sobald neues Fachwissen nötig wird. Nutze vorhandenes Kursmaterial statt Modellgedächtnis. Lies trotzdem keine vollständige Vorlesung auf Vorrat.
