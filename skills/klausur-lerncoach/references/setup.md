@@ -6,7 +6,7 @@ Läuft einmal pro Fach, vollständig **vor** dem ersten Lernblock. Jeder Schritt
 
 Termin, Dauer, erreichbare Punkte, Bestehensgrenze, erlaubte Hilfsmittel, Raum. → vollständig in `<FACH>-LERNSTART.md`. Läuft mehr als ein Fach, kommen die Termine des Fachs in die Terminleiste des übergreifenden `LERNPLAN.md` und eine Zeile in dessen Fächerübersicht — die Übersicht, nicht die Details.
 
-Das Ziel liegt mit Sicherheitsabstand über der Bestehensgrenze und wird auf die tatsächliche Skala und Sonderregeln der Prüfung bezogen — bei einer 50-%-Grenze beispielsweise etwa 65 %, nicht pauschal 15 Rohpunkte mehr. Leite daraus im `LERNSTART.md` auch eine skalengerechte Nachweisschwelle für zeitversetzte Kontrollaufgaben ab. Ist die Grenze unbekannt, erfinde keine offizielle Zahl: Lege klar als vorläufig markierte Arbeitswerte fest und ersetze sie, sobald die Regeln bekannt sind.
+Das Ziel liegt mit Sicherheitsabstand über der Bestehensgrenze und wird auf die tatsächliche Skala und Sonderregeln der Prüfung bezogen — bei einer 50-%-Grenze beispielsweise etwa 65 %, nicht pauschal 15 Rohpunkte mehr. Leite daraus im `LERNSTART.md` auch eine passende Nachweisschwelle für zeitversetzte Kontrollaufgaben ab: als Punkt-/Prozentwert oder bei kriterialer Bewertung als Satz erfüllter Pflichtkriterien. Ist die Grenze unbekannt, erfinde keine offizielle Zahl: Lege klar als vorläufig markierte Arbeitswerte oder Kriterien fest und ersetze sie, sobald die Regeln bekannt sind.
 
 ## 2. Die offizielle Themenliste für *diesen* Termin
 
@@ -36,7 +36,7 @@ Ergebnis: eine Kompetenzabdeckung, bei der zu jedem Baustein klar ist, welche Qu
 
 ## 5. Prioritäten setzen
 
-Erwarteter Prüfungsnutzen geteilt durch geschätzten Lernaufwand. Hoch stehen gut belegte, wiederkehrende Aufgabentypen mit vielen erreichbaren Punkten — unabhängig davon, ob gerechnet, analysiert, zugeordnet, begründet oder argumentiert wird. Definitionen stehen nur dann tiefer, wenn die Quellen ihnen tatsächlich wenig Gewicht geben.
+Erwarteter Prüfungsnutzen geteilt durch geschätzten Lernaufwand. Hoch stehen gut belegte, wiederkehrende Aufgabentypen mit hohem Prüfungsgewicht — unabhängig davon, ob gerechnet, analysiert, zugeordnet, begründet oder argumentiert wird. Definitionen stehen nur dann tiefer, wenn die Quellen ihnen tatsächlich wenig Gewicht geben.
 
 Diese Priorität wird später bei **jedem tatsächlichen Lernstart** und an natürlichen Blockenden neu bewertet. Eine einmal festgeschriebene Reihenfolge führt dazu, dass ein wertvoller Aufgabentyp liegen bleibt, während an bereits sitzenden Themen nachpoliert wird.
 
@@ -46,7 +46,7 @@ Prüfe außerdem für jeden Kompetenzbaustein, ob der vorhandene Aufgabenpool ih
 
 Plane ein **Probeklausurfenster** vor der Prüfung und lege daraus einen konkreten Termin fest. Ein Puffertag ist wünschenswert, aber nicht auf Kosten einer anderen Prüfung oder eines bereits feststehenden harten Termins. Bei mehreren Fächern werden die Meilensteine im `LERNPLAN.md` gegeneinandergelegt.
 
-Der Termin kommt als eigene Zeile in den Status, nicht in eine „Abschluss"-Sektion. Er ist ein Anker, kein täglicher Lernzwang: Darius lernt, wenn er den Skill aufruft. Bei jedem tatsächlichen Start zählt der aktuelle Stand; verpasste Meilensteine werden ohne Rückblick oder Vorwurf auf den nächsten sinnvollen, noch realistischen Zeitpunkt gelegt.
+Der Termin kommt als eigene Zeile in den Status, nicht in eine „Abschluss"-Sektion. Er ist ein Anker, kein täglicher Lernzwang: Der Lernende lernt, wenn er den Skill aufruft. Bei jedem tatsächlichen Start zählt der aktuelle Stand; verpasste Meilensteine werden ohne Rückblick oder Vorwurf auf den nächsten sinnvollen, noch realistischen Zeitpunkt gelegt.
 
 Plane außerdem ein Fenster für gemischte Wiederholung ohne Hinweise. Bei sehr spätem Start oder engem Klausurkalender werden beide Formate verkürzt und auf die wertvollsten repräsentativen Aufgaben konzentriert; Wissensaufbau wird nicht vollständig von einer formal vollständigen Probe verdrängt.
 

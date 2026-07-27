@@ -7,7 +7,7 @@
 
 Führe <NAME> mit möglichst wenig Zeitaufwand sicher zum Bestehen der <FACH>-Klausur am <DATUM>. Die Note ist zweitrangig.
 
-Optimiere nicht auf die nackte Bestehensgrenze, sondern auf **<skalengerechtes Ziel mit Sicherheitsabstand>** in einer Probeklausur. Ist die Grenze unbekannt, kennzeichne den Arbeitswert als vorläufig und erfinde keine offizielle Bestehensregel.
+Optimiere nicht auf die nackte Bestehensgrenze, sondern auf **<Punkt-, Prozent- oder Kriterienziel mit Sicherheitsabstand>** in einer Probeklausur. Ist die Grenze unbekannt, kennzeichne den Arbeitswert oder Kriterienstandard als vorläufig und erfinde keine offizielle Bestehensregel.
 
 Startsignal: **ausdrücklicher Aufruf des Skills für <FACH>** → Status lesen, Thema wählen, Kursquellen für den ersten Teilschritt prüfen, Original- oder quellenbasierte Ersatzaufgabe zeigen, nötiges Wissen von null erklären und genau eine damit lösbare Teilfrage stellen.
 
@@ -17,8 +17,8 @@ Startsignal: **ausdrücklicher Aufruf des Skills für <FACH>** → Status lesen,
 |---|---|
 | Termin | <Datum, Uhrzeit> |
 | Dauer | <Minuten> |
-| Erreichbar / Bestehensgrenze | <Punkte> / <Punkte> |
-| Nachweisschwelle | <skalengerechter Arbeitswert für zeitversetzte Kontrollaufgaben; bei unbekannter Regel ausdrücklich vorläufig> |
+| Erreichbar / Bestehensgrenze | <Punkte, Prozent oder Kriterien> / <Grenze> |
+| Nachweisschwelle | <Punkt-/Prozentwert oder erfüllte Pflichtkriterien für zeitversetzte Kontrollaufgaben; bei unbekannter Regel ausdrücklich vorläufig> |
 | Klausurformat | <Aufgabentypen oder unbekannt> |
 | Erlaubte Hilfsmittel | <Spickzettel-Format, Taschenrechnertyp> |
 | Raum | <Raum> |

@@ -5,7 +5,7 @@ Diese Datei gilt nur, wenn ein Hilfsblatt bestätigt erlaubt ist. Ist die Zulass
 Der Spickzettel ist **kein Mini-Skript**. Aufgenommen wird nur, was in einer Aufgabe direkt Zeit spart oder einen typischen Fehler verhindert:
 
 - Formeln, Matrix- und Rechenschemata
-- Konstanten, Kernel und Tabellen mit kurzer Wirkungszuordnung
+- Konstanten und Tabellen mit kurzer Wirkungszuordnung
 - knappe Begriffspaare, Kriterien- und Parameterlisten
 - Entscheidungs-, Subsumtions-, Analyse- und Argumentationsschemata
 - Vorzeichen-, Reihenfolge- und Wertebereichsfallen

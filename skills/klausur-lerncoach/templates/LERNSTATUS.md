@@ -15,9 +15,9 @@
 
 > Stufen: `offen` · `angefangen` (zerlegt oder mit Hilfe) · `übungsfähig` (neue Standardvariante am Stück) · `stabil` (zeitversetzte Mischvariante ohne Hilfe, mindestens festgelegte Nachweisschwelle)
 > Hilfestufe: `ohne Hilfe` · `Begriffserklärung` · `zerlegt` · `konkreter Hinweis` (kombinierbar, z. B. `Begriffserklärung + zerlegt`)
-> Punkte = erster Versuch **am Stück** unter Klausurbedingungen; angeleitete Lernaufgabe bleibt unbepunktet. Stufe = Stand nach dem Lernblock.
+> Bewertung = Punkte oder Kriterienergebnis des ersten Versuchs **am Stück** unter Klausurbedingungen; angeleitete Lernaufgabe bleibt unbewertet. Stufe = Stand nach dem Lernblock.
 
-| Prio | Thema | Quelle | Stufe | Letzter Nachweis (Datum · Aufgabe · Hilfestufe · Punkte) | Nächster Schritt |
+| Prio | Thema | Quelle | Stufe | Letzter Nachweis (Datum · Aufgabe · Hilfestufe · Punkte/Kriterien) | Nächster Schritt |
 |---|---|---|---|---|---|
 | 1 | <Thema> | <Themenliste / Transkript> | offen | — | <erste Aufgabe> |
 | 2 | | | offen | — | |
@@ -56,6 +56,6 @@
 
 ## Probeklausuren
 
-| Datum | Grundlage | Bedingungen | Punkte | Größte Verluste |
+| Datum | Grundlage | Bedingungen | Punkte/Kriterien | Größte Verluste |
 |---|---|---|---|---|
 | | | | | |

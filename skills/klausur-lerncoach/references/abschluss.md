@@ -21,15 +21,15 @@ Zum vorab festgelegten, mit anderen Prüfungen abgeglichenen Termin im Probeklau
 
 Reicht die verbleibende Zeit objektiv nicht für eine vollständige Probe, nutze eine zeitlich begrenzte, repräsentative Stichprobe aus den wertvollsten offenen und bereits gelernten Aufgabentypen. Kennzeichne sie als Teilprobe; sie ersetzt nicht unbemerkt die Aussagekraft einer vollständigen Klausur.
 
-## 3. Nach Originalpunkten korrigieren
+## 3. Nach Originalpunkten oder Kriterien korrigieren
 
 Mit dem Punkteschema der Vorlage oder dem vorab festgelegten Kriterienraster, nicht großzügiger. Geschätzte Bewertung bleibt als solche markiert. Ergebnis kommt in die Probeklausur-Tabelle des Status: Datum, Grundlage, Bedingungen, Punkte, größte Verluste.
 
 Die Probeklausur ist die stärkste Evidenz über Leistung in voller Länge. Kontrollvarianten und zeitversetzte Mischfragen liefern bereits begrenzte Evidenz auf Themenebene; angeleitete Lernaufgaben nicht.
 
-## 4. Nur die größten Punktverluste nachtrainieren
+## 4. Nur die größten Bewertungsverluste nachtrainieren
 
-Nach erwartetem Punktverlust sortieren und bis zum letzten sinnvollen Sicherheitsfenster von oben abarbeiten. Ein Thema, das voraussichtlich 3 Punkte kostet, bleibt liegen, wenn eines danebensteht, das 12 kostet.
+Nach erwartetem Bewertungsverlust sortieren und bis zum letzten sinnvollen Sicherheitsfenster von oben abarbeiten. Ein gering gewichteter Verlust bleibt liegen, wenn daneben ein deutlich höher gewichteter Punkte- oder Kriterienverlust steht.
 
 ## 5. Spickzettel final verdichten
 

@@ -17,7 +17,7 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 ## Die sieben Fehler
 
 1. **Die offizielle Themenliste wurde nie als Checkliste gegen den Status gelegt.** Der Lernplan kam aus der Altklausur. Folge: fünf ausdrücklich angesagte Themen fielen komplett durchs Raster.
-   → Jeder Punkt der Themenliste wird beim Anlegen genau eine Statuszeile ([`setup.md`](setup.md) §2).
+   → Jeder Punkt der Themenliste wird beim Anlegen auf mindestens einen getrennt nachweisbaren Kompetenzbaustein abgebildet ([`setup.md`](setup.md) §2).
 
    **Teuer gelernte Ergänzung:** Die Themenliste taugt als Einschluss-, nicht als Ausschlusskriterium. Texturen fehlten auf der Liste; auf direkte Nachfrage sagte der Prof im Transkript aber, er würde sie „nicht komplett ausschließen". Deshalb der Abgleich **beider** Quellen vor dem ersten Lernblock (§3–4).
 
@@ -27,8 +27,8 @@ Erprobt in der Klausurenphase Sommer 2026 an einem Durchlauf Visual Computing: 1
 3. **Die Stufe `stabil` wurde faktisch nie verwendet.** Die Schleife optimierte konsequent bis `übungsfähig` und zog weiter — breit statt tief. Bis kurz vor der Klausur gab es damit keinerlei Evidenz über die Leistung ohne Hilfe.
    → Die gemischte Wiederholung ohne Hinweise ist ein eigener, terminierter Schritt. Und: `stabil` entsteht nie im selben Block wie `übungsfähig`, weil der Zeitversatz Teil des Nachweises ist.
 
-4. **Die Probeklausur hatte kein Datum.** Sie stand als letzter Punkt der Abschlussphase und wäre bei Zeitdruck als Erstes ausgefallen — obwohl sie der einzige echte Messpunkt ist.
-   → Fester Termin beim Anlegen des Plans, rückwärts vom Klausurdatum mit Puffertag.
+4. **Die Probeklausur hatte kein Datum.** Sie stand als letzter Punkt der Abschlussphase und wäre bei Zeitdruck als Erstes ausgefallen — obwohl sie der einzige vollständige Messpunkt ist.
+   → Beim Anlegen einen mit anderen Prüfungen koordinierten festen Anker im verfügbaren Abschlussfenster setzen.
 
 5. **Hilfsmittel-Logistik wurde nicht früh geklärt** — handschriftlich oder gedruckt, Taschenrechnertyp, Raum, Ausweis.
    → Checkliste beim Anlegen, nicht am Vorabend.

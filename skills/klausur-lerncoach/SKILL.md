@@ -16,8 +16,8 @@ Der Lernstand liegt in Dateien, nicht im Chatverlauf. So überlebt er Sitzungsab
 | Lage | Pfad |
 |---|---|
 | kein `<FACH>-LERNSTATUS.md` vorhanden | neues Fach anlegen → [`references/setup.md`](references/setup.md) |
-| Status vorhanden | **Lernblock** (unten) |
-| alle Kernthemen mindestens `übungsfähig` — oder der Termin der gemischten Wiederholung aus dem `LERNSTART.md` ist erreicht, je nachdem was zuerst eintritt | Abschlussphase → [`references/abschluss.md`](references/abschluss.md) |
+| Status vorhanden und alle Kernthemen mindestens `übungsfähig` — oder der Termin der gemischten Wiederholung aus dem `LERNSTART.md` ist erreicht, je nachdem was zuerst eintritt | Abschlussphase → [`references/abschluss.md`](references/abschluss.md) |
+| Status vorhanden, Abschlussbedingung nicht erfüllt | **Lernblock** (unten) |
 
 Gestartet wird dieser Skill nur durch ausdrücklichen Aufruf; ein nebenbei geäußerter Lernwunsch reicht nicht. Ist er aufgerufen, ist das ein Startsignal, keine Frage: Auftrag und Status lesen, das höchstpriorisierte Thema wählen, das noch nicht mindestens `übungsfähig` ist, **sofort den Lernblock vorbereiten und beginnen**. Kein Rückblick auf die letzte Sitzung, keine Auswahlfrage. Rückfragen nur, wenn er selbst eine neue harte Zeitgrenze nennt oder wirklich keine belastbare Kursquelle verfügbar ist. Der reibungslose Einstieg ist gegen Prokrastination der entscheidende Punkt.
 
@@ -38,14 +38,14 @@ Eine Ersatzaufgabe ist keine angebliche Altklausur: Nenne ihre Quellenbasis und 
 
 Eine überschaubare Teilfrage zur Zeit.
 
-1. **Lernaufgabe zeigen.** Zeig zuerst den vollständigen Originalwortlaut oder die vollständige Ersatzaufgabe samt Punkten. Hängt die Aufgabe von einer Zeichnung, einem Diagramm, einer Tabelle oder anderem Layout ab, muss dieses visuell im Chat stehen. Bei einer Originalaufgabe zeigst du den gerenderten relevanten Originalausschnitt und ersetzt ihn nicht durch eine bloße Beschreibung oder bereits abgelesene Werte. Für eine generierte visuelle Aufgabe erstellst und zeigst du eine klare, als generiert erkennbare Abbildung. Bei einer Ersatzaufgabe nennst du knapp die Quellenbasis. Die Lernaufgabe ist das Gerüst des Lernens, noch kein kalter Test.
+1. **Lernaufgabe zeigen.** Zeig zuerst den vollständigen Originalwortlaut oder die vollständige Ersatzaufgabe samt Punkten oder Bewertungskriterien. Hängt die Aufgabe von einer Zeichnung, einem Diagramm, einer Tabelle oder anderem Layout ab, muss dieses visuell im Chat stehen. Bei einer Originalaufgabe zeigst du den gerenderten relevanten Originalausschnitt und ersetzt ihn nicht durch eine bloße Beschreibung oder bereits abgelesene Werte. Für eine generierte visuelle Aufgabe erstellst und zeigst du eine klare, als generiert erkennbare Abbildung. Bei einer Ersatzaufgabe nennst du knapp die Quellenbasis. Die Lernaufgabe ist das Gerüst des Lernens, noch kein kalter Test.
 2. **Nächstes Wissen vermitteln.** Erklär von null genau die Begriffe und das Verfahren, die der nächste Lösungsschritt braucht. Nutze die vorbereiteten Kursquellen und ein kurzes konkretes Beispiel. Hör auf, sobald die nächste Teilfrage damit lösbar ist; keine Vorlesung, keine Motivation, keine Historie.
 3. **Eine Teilfrage stellen.** Stell nur den nächsten Schritt der Lösungsreihenfolge. Er muss allein mit dem bereits vermittelten Wissen und normalem Schlussfolgern lösbar sein. Verdeck spätere Lösungsschritte.
 4. **Warten.** Der nächste Beitrag ist seiner. Hier entsteht der Lerneffekt; alles andere ist Rahmen.
 5. **Korrigieren.** Nenne zuerst, was sicher sitzt, dann genau den ersten Fehler und seine Auswirkung. Bei einer Wissens- oder Verfahrenslücke erklärst du nur diese Lücke und prüfst sie mit einer kleinen neuen Anwendung. Hat er das Verfahren nachweislich selbst richtig aufgeschrieben und nur einen Zahlendreher drin, reicht der Hinweis; beim zweiten Mal ist es keiner mehr.
 6. **Weiterbauen.** Bestimme das Wissen für den nächsten Teilschritt, beschaffe es bei Bedarf aus den Kursquellen, erklär es und stell anschließend genau diese Teilfrage. So geht es bis zum Ende der Lernaufgabe.
-7. **Nachweis am Stück.** Sobald ein zusammenhängender Themenbaustein vermittelt ist und ein selbstständiger Versuch aussagekräftig wäre, stell eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Erzwing sie nicht nach jeder kleinen Lernaufgabe und nicht zwingend im selben Block. Auch ohne Altklausur müssen angeleitete Lernaufgabe und Kontrollvariante verschieden sein. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und werden Punkte vergeben.
-8. **Entscheiden und dokumentieren.** Prüf an einem natürlichen Aufgabenschnitt adaptiv, ob Weiterüben oder Wechseln mehr erwartete Punkte bringt. Trag die erreichte Stufe ein; `übungsfähig` erst nach der Kontrollvariante. Aktualisiere den Status direkt nach dem Block. Ein Spickzettel-Kandidat entsteht erst, wenn die tatsächliche Bearbeitung gezeigt hat, dass er Zeit spart oder einen Fehler verhindert hätte — nie vorsorglich beim Setup oder aus einer noch unbeantworteten Aufgabe.
+7. **Nachweis am Stück.** Sobald ein zusammenhängender Themenbaustein vermittelt ist und ein selbstständiger Versuch aussagekräftig wäre, stell eine neue Kontrollvariante ohne Zerlegung, Beispiele oder Hinweise. Erzwing sie nicht nach jeder kleinen Lernaufgabe und nicht zwingend im selben Block. Auch ohne Altklausur müssen angeleitete Lernaufgabe und Kontrollvariante verschieden sein. Nur hier sowie in Wiederholung und Probeklausur gelten Klausurbedingungen und wird nach Punkten oder Kriterien bewertet.
+8. **Entscheiden und dokumentieren.** Prüf an einem natürlichen Aufgabenschnitt adaptiv, ob Weiterüben oder Wechseln mehr erwarteten Prüfungsnutzen bringt. Trag die erreichte Stufe ein; `übungsfähig` erst nach der Kontrollvariante. Aktualisiere den Status direkt nach dem Block. Ein Spickzettel-Kandidat entsteht erst, wenn die tatsächliche Bearbeitung gezeigt hat, dass er Zeit spart oder einen Fehler verhindert hätte — nie vorsorglich beim Setup oder aus einer noch unbeantworteten Aufgabe.
 
 Pass in beide Richtungen an:
 
@@ -64,7 +64,7 @@ Der Default: **Original- oder Ersatz-Lernaufgaben zerlegt, solange das Thema unt
 
 - Die Zerlegung folgt der **Bearbeitungs- und Lösungsreihenfolge**, nicht der Gliederung der Vorlesung: erst der Schritt, den man mit dem gerade vermittelten Wissen schafft, dann der nächste.
 - Vor jedem Teilschritt wird alles neue Fachwissen vermittelt, das dieser Schritt voraussetzt. Die Frage darf Anwendung verlangen, aber kein noch nicht erklärtes Wissen.
-- Jeder Teilschritt wird selbst gelöst, bevor der nächste kommt. Die Gesamtaufgabe und ihre Punkteverteilung bleiben sichtbar, spätere Lösungsschritte verdeckt.
+- Jeder Teilschritt wird selbst gelöst, bevor der nächste kommt. Die Gesamtaufgabe und ihre Punkteverteilung oder Bewertungskriterien bleiben sichtbar, spätere Lösungsschritte verdeckt.
 - Trivialschritte fallen weg, sobald das Prinzip erkennbar sitzt. Die Zerlegung ist ein Werkzeug gegen Überforderung, kein Selbstzweck.
 - Vor `übungsfähig` kommt **eine neue Variante am Stück**. Sie ist der Nachweis — die zerlegte Aufgabe ist es nicht. Sie darf an einem späteren natürlichen Schnitt oder in einem späteren Block folgen.
 
@@ -87,7 +87,7 @@ Nachweiszeile im Status, kompakt:
 27.07. · K2024 A3b · Begriffserklärung + zerlegt · —
 ```
 
-**Punkte und Stufe sind zwei verschiedene Dinge.** Punkte gibt es nur für einen Versuch am Stück unter Klausurbedingungen; eine erklärte und zerlegte Lernaufgabe bleibt unbepunktet. Die Stufe beschreibt den Stand nach dem Lernblock. Eine später selbst erzielte 4/6 und das anschließende Verständnis sind zwei eigene Informationen und stehen nebeneinander im Status.
+**Bewertung und Stufe sind zwei verschiedene Dinge.** Punkte oder ein Kriterienergebnis gibt es nur für einen Versuch am Stück unter Klausurbedingungen; eine erklärte und zerlegte Lernaufgabe bleibt unbewertet. Die Stufe beschreibt den Stand nach dem Lernblock. Eine später selbst erzielte 4/6 beziehungsweise ein erfülltes Kriterienraster und das anschließende Verständnis sind zwei eigene Informationen und stehen nebeneinander im Status.
 
 ## Steuerung und Themenwechsel
 
@@ -97,11 +97,11 @@ Nachweiszeile im Status, kompakt:
 - Ein Block darf bei `angefangen` enden. Die Kontrollvariante kann später folgen; ohne sie bleibt das Thema unter `übungsfähig`.
 - **`stabil` entsteht nie im selben Block wie `übungsfähig`.** Der Zeitversatz ist Teil des Nachweises. Damit endet jeder Block spätestens bei `übungsfähig`, und Nachpolieren an bereits sitzenden Themen fällt weg.
 - Biete an einem passenden natürlichen Schnitt **eine einzelne alte Frage ohne Hinweis** an, wenn mehrere neue Themen dazwischenliegen oder der Erhalt unsicher ist. Ein Angebot, keine Pflicht. Ist sie zeitversetzt, gemischt und erreicht die Nachweisschwelle, darf sie `stabil` tragen. Der terminierte Wiederholungsblock ist die Absicherung, nicht das einzige Zeitfenster.
-- **Priorität** ist erwarteter Prüfungsnutzen geteilt durch geschätzten Lernaufwand, bei jedem tatsächlichen Lernstart und an jedem natürlichen Blockende neu bewertet — nicht die Reihenfolge der Themenliste oder ein früherer Zeitplan. Hoch stehen gut belegte, wiederkehrende Aufgabentypen mit vielen erreichbaren Punkten: Rechen-, Analyse-, Zuordnungs-, Begründungs- und Argumentationsschemata werden nach denselben Kriterien bewertet. Reine Definitionsfragen stehen nur dann tiefer, wenn Quellen und Bewertung ihnen tatsächlich wenig Gewicht geben.
+- **Priorität** ist erwarteter Prüfungsnutzen geteilt durch geschätzten Lernaufwand, bei jedem tatsächlichen Lernstart und an jedem natürlichen Blockende neu bewertet — nicht die Reihenfolge der Themenliste oder ein früherer Zeitplan. Hoch stehen gut belegte, wiederkehrende Aufgabentypen mit hohem Prüfungsgewicht: Rechen-, Analyse-, Zuordnungs-, Begründungs- und Argumentationsschemata werden nach denselben Kriterien bewertet. Reine Definitionsfragen stehen nur dann tiefer, wenn Quellen und Bewertung ihnen tatsächlich wenig Gewicht geben.
 
 ## Artefakte
 
-- **`<FACH>-LERNSTART.md`** — der Auftrag, fachspezifisch und weitgehend statisch: Ziel und Zielpunktzahl mit Puffer, Materialpfade, Quellengewichtung, Termine, Logistik, erster Einstieg. Vor dem ersten Lernblock geschrieben; später nur bei neuen offiziellen Angaben, Quellen oder realistisch neu einzuordnenden Meilensteinen angepasst. Die Methode selbst gehört nicht hinein, die steht hier.
+- **`<FACH>-LERNSTART.md`** — der Auftrag, fachspezifisch und weitgehend statisch: Ziel und Zielwert mit Puffer, Materialpfade, Quellengewichtung, Termine, Logistik, erster Einstieg. Vor dem ersten Lernblock geschrieben; später nur bei neuen offiziellen Angaben, Quellen oder realistisch neu einzuordnenden Meilensteinen angepasst. Die Methode selbst gehört nicht hinein, die steht hier.
 - **`<FACH>-LERNSTATUS.md`** — der Zustand, nach jedem Block aktualisiert: Bedienungsanleitung ganz oben, Themenstand-Tabelle, typische Fehler, Spickzettel-Kandidaten, Sitzungsprotokoll, Probeklausur-Tabelle.
 - **`<FACH>-SPICKZETTEL.md`** — das Ausgabeartefakt, nur wenn ein solches Hilfsmittel erlaubt ist. Bei unbekannter Zulassung sammelst du Kandidaten zunächst ausschließlich im Status; bei ausdrücklichem Verbot legst du keine Spickzettel-Datei an. Wächst nur aus tatsächlich bearbeiteten Aufgaben → [`references/spickzettel.md`](references/spickzettel.md). Heißt je nach Fach auch `…-MERKBLATT.md` oder `…-A4-BLATT.md`; einen bereits vorhandenen Namen behältst du bei.
 - **`LERNPLAN.md`** — nur bei mehreren Fächern, und nur das Fachübergreifende: Terminleiste, Meilensteine, Zeitkonflikte zwischen den Fächern, Hilfsmittel auf einen Blick. Die vollständigen Rahmendaten eines Fachs stehen im jeweiligen `LERNSTART.md` und werden hier nicht zweitgeführt; im Zweifel gilt das `LERNSTART.md`.
